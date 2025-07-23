@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Group Manager",
+  "version": "1.0",
+  "description": "Manage tab groups and save/restore tab configurations",
+  "permissions": [
+    "tabs",
+    "tabGroups",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Tab Group Manager"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+  "32": "icons/dan_32.png",
+  "64": "icons/dan_64.png",
+  "128": "icons/dan_128.png"
+}
+}
