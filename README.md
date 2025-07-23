@@ -20,5 +20,7 @@ const sortingRules = {
     "Productivity": ["notion", "trello", "asana", "monday", "clickup", "todoist"]
 };
 
+```
 💾 Save Your Custom Groups
 Once you've made changes to the sortingRules, you can generate a string to save or share your personalized group configuration.
+```
