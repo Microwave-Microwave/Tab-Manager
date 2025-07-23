@@ -22,5 +22,6 @@ const sortingRules = {
 
 ```
 💾 Save Your Custom Groups
-Once you've made changes to the sortingRules, you can generate a string to save or share your personalized group configuration.
+
 ```
+Once you've made changes to the sortingRules, you can generate a string to save or share your personalized group configuration.
