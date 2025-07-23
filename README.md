@@ -4,6 +4,10 @@ A simple Chrome extension for organizing and managing your open tabs by category
 
 ---
 
+
+<img width="966" height="704" alt="image" src="https://github.com/user-attachments/assets/225453c2-6781-4bb1-b3c0-6b77210a741d" />
+
+
 ### 🔧 Custom Grouping
 
 You can customize how your tabs are grouped by editing the `sortingRules` object in `popup.js` (line 15).  
