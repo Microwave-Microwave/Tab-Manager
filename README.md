@@ -1,7 +1,7 @@
 # Tab-Manager
 Chrome extension for tab management.
 
-popup.js line 15 has a json field you can edit for your own website groupings.
+**popup.js line 15 has a json field you can edit for your own website groupings.**
 
 Looks like this:
 const sortingRules = {
@@ -14,4 +14,4 @@ const sortingRules = {
         "Productivity": ["notion", "trello", "asana", "monday", "clickup", "todoist"]
     };
 
-You can generate a string to save your added groups.
+**You can generate a string to save your added groups.**
